@@ -1,0 +1,2 @@
+# qlikview
+Qlikview academic project
